@@ -5,7 +5,7 @@ android library EditPhoto. Image Editor for Android
 
 # Demo 
 
-[<img src="/store/Gif.gif">]
+[<img src="https://lh3.googleusercontent.com/18yJQaRq3oWz_04_gkpD5t_hLHVWDN3FsNSXDfU4bFYcJg9nr5msqUBrG2EgN8v7Bg=h512">]
 
 # Project
 
